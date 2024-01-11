@@ -48,12 +48,13 @@
 	    </pluginRepository>
 	</pluginRepositories>
         </plugin>
+       </plugin Management>
 	   <plugin>
 	   <groupid>org.apache.maven.plugins</groupid>
 	   <artifactid>maven-war-plugin</artifactid>
 	   <version>3.3.2</version>
 	   </plugin>		   
-		   
+</plugin Management>	   
 	
 </project>
 
