@@ -47,7 +47,13 @@
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
-
+        </plugin>
+	   <plugin>
+	   <groupid>org.apache.maven.plugins</groupid>
+	   <artifactid>maven-war-plugin</artifactid>
+	   <version>3.3.2</version>
+	   </plugin>		   
+		   
 	
 </project>
 
