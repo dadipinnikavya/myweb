@@ -27,7 +27,8 @@
 			<scope>test</scope>
 		</dependency>
          </dependencies>
-
+	</dependencies>
+<build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -38,9 +39,7 @@
             </configuration>
         </plugin>
     </plugins>
-
-	</dependencies>
-	
+</build>
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
