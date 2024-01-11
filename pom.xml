@@ -47,7 +47,7 @@
 	    </pluginRepository>
 	</pluginRepositories>
 	
-        <pluginManagement>
+        </pluginManagement>
            
            <plugin>
                <groupId>org.apache.maven.plugins</groupId>
